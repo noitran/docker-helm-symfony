@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  symfony:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-07-30T17:05:17.831564838+03:00"
+    dependencies:
+    - name: nginx
+      repository: https://charts.bitnami.com/bitnami
+      version: ^8.8
+    description: Symfony helm chart
+    digest: 55f050f340212f90b174dfeb57c1d845fe89f2752feb292c5ced9daa0390a575
+    name: symfony
+    type: application
+    urls:
+    - https://noitran.github.io/docker-helm-laravel/symfony-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-07-30T17:05:17.828316014+03:00"
